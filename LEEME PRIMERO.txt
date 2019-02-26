@@ -1,0 +1,7 @@
+Los folders están organizados por los pasos que debe seguir:
+
+#1 - instalar python 3.6.1
+
+#2 - leer la documentación para instalar las librerías requeridas
+
+#3 - aplicación en .py (texto plano incluído en caso de necesitarse)

@@ -1,0 +1,18 @@
+Instrucciones para instalar librerías en macOS:
+
+REQUIERE PYTHON 3 O SUPERIOR.
+
+* Todos los comandos que usted introduzca, debe hacerlo sin comillas *
+
+
+1- Abrir terminal
+2- escribir 'sudo easy_install pip', decir que si en caso de no tener instalado pip.
+ - Si usted tiene instalado pip, la consola se lo notificará y le permitirá proceder
+ - con cualquier otro comando.
+3- escribir 'pip install sympy', decir que si en caso de que le pregunte, sino, espere
+ - que complete el proceso.
+4- escribir 'pip install numpy', decir que si en caso de que le pregunte, sino, espere
+ - que complete el proceso.
+5- escribir 'pip install matplotlib', decir que si en caso de que le pregunte, sino, espere
+ - que complete el proceso.
+6- Cuando el proceso termine, puede cerrar terminal y correr el programa sin problemas.
